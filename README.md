@@ -8,6 +8,7 @@ LinkedIn: https://www.linkedin.com/in/dmitro-duskin-b1a6b3a9
 
 OBJECTIVE
 Young and purposeful Node.js developer.
+
 SUMMARY OF QUALIFICATIONS
 *OS: Linux, Windows
 *Programming: Node, HTML, CSS
@@ -16,6 +17,7 @@ SUMMARY OF QUALIFICATIONS
 *DevOps: Docker, AWS, GitlabCi, Sentry
 *Libraries: Lodash.js, Async.js, Babel, Jest, Mocha
 *DevTools: VSC, Sublime, Postman
+
 PROFESSIONAL EXPERIENCE
 
 *Current 
