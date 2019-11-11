@@ -1,6 +1,6 @@
 ## Dushkin Dmitro
 *+380682686736*
-*email: lomkovsky@gmail.com*
+**email: lomkovsky@gmail.com**
 *skype: lomkovsky*
 *github: https://github.com/lomkovsky*
 *LinkedIn: https://www.linkedin.com/in/dmitro-duskin-b1a6b3a9*
