@@ -11,7 +11,7 @@
 **SUMMARY OF QUALIFICATIONS**
 * *OS: Linux, Windows
 * *Programming: Node, HTML, CSS
-* *Frameworks: Express, PraphQL
+* *Frameworks: Express, GraphQL
 * *Databases: Mongo, MySQL
 * *DevOps: Docker, AWS, GitlabCi, Sentry
 * *Libraries: Lodash.js, Async.js, Babel, Jest, Mocha
