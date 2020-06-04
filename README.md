@@ -15,7 +15,7 @@
 * *Databases: Mongo, MySQL
 * *DevOps: Docker, AWS, GitlabCi, Sentry
 * *Libraries: Lodash.js, Async.js, Babel, Jest, Mocha
-* *DevTools: VSC, Sublime, Postman
+* *DevTools: VSC, Sublime, Postman, Swagger
 
 **PROFESSIONAL EXPERIENCE**
 
