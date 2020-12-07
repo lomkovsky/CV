@@ -10,17 +10,17 @@
 
 **SUMMARY OF QUALIFICATIONS**
 * *OS: Linux, Windows
-* *Programming: Node, HTML, CSS
+* *Programming: Node.js
 * *Frameworks: Express, GraphQL, NestJS
-* *Databases: Mongo, MySQL
+* *Databases: Mongo, Postgresql
 * *DevOps: Docker, AWS, GitlabCi, Sentry
-* *Libraries: Lodash.js, Async.js, Babel, Jest, Mocha
-* *DevTools: VSC, Sublime, Postman, Swagger
+* *Libraries: Babel, Jest, Mocha, Redis
+* *DevTools: VSC, Postman, Swagger
 
 **PROFESSIONAL EXPERIENCE**
 
 * *Current
-* *Back end engineer at room#4
+* *Back end engineer at IvorySoft
 * *back end development using Node, MongoDB
 
 **EDUCATION**
