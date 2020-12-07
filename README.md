@@ -19,9 +19,8 @@
 
 **PROFESSIONAL EXPERIENCE**
 
-* *Current
-* *Back end engineer at IvorySoft
-* *back end development using Node, MongoDB
+* *Back end engineer at Room4
+* *Back end engineer at IvorySoft - Current
 
 **EDUCATION**
 * *National Shipbuilding University,  Nikolaev, Ukraine, Electromechanical automation systems and electric drive 2007
