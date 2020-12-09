@@ -12,10 +12,10 @@
 * *OS: Linux, Windows
 * *Programming: Node.js
 * *Frameworks: Express, GraphQL, NestJS
-* *Databases: Mongo, Postgresql
-* *DevOps: Docker, AWS, GitlabCi, Sentry
+* *Databases: MongoDB, Postgresql
+* *DevOps: Docker, AWS CI/CD (CodePipeline), Gitlab CI/CD (Runners), GitHub CI/CD (Actions) 
 * *Libraries: Babel, Jest, Mocha, Redis
-* *DevTools: VSC, Postman, Swagger
+* *DevTools: VSC, Postman, Swagger, Sonar, Sentry
 
 **PROFESSIONAL EXPERIENCE**
 
