@@ -24,3 +24,14 @@
 
 **EDUCATION**
 * *National Shipbuilding University,  Nikolaev, Ukraine, Electromechanical automation systems and electric drive 2007
+
+**DUTIES**
+
+    • *Research on unfamiliar technologies (if required).
+    • *Software development.
+    • *Writing Swagger Documentation.
+    • *Coverage of the code by unit tests.
+    • *Containerization of the project with the Docker.
+    • *CI / CD setup.
+    • *Deploy verified code into AWS.
+    • *Display your steps in Trello.
