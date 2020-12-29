@@ -27,11 +27,11 @@
 
 **DUTIES**
 
-    • *Research on unfamiliar technologies (if required).
-    • *Software development.
-    • *Writing Swagger Documentation.
-    • *Coverage of the code by unit tests.
-    • *Containerization of the project with the Docker.
-    • *CI / CD setup.
-    • *Deploy verified code into AWS.
-    • *Display your steps in Trello.
+* *Research on unfamiliar technologies (if required).
+* *Software development.
+* *Writing Swagger Documentation.
+* *Coverage of the code by unit tests.
+* *Containerization of the project with the Docker.
+* *CI / CD setup.
+* *Deploy verified code into AWS.
+* *Display your steps in Trello.
